@@ -7,22 +7,24 @@ it is a ✨ _special_ ✨ repository because its `README.md` (this file) appears
 
 ### Hi there 👋
 
-**I'm Vilius
+##I'm Vilius
+##junior web developer
 
 and this is my GitHub page
 
 ## About
 
-- 🔭 I’m currently working preparing for qualification exam as full stack developer.
-- 🌱 My newest project - personal page, where I represent my self as programmer (under construction). Hope to release somewhere after Easter.
+- 😄 I’ve finished full stack developer (PHP) course and passed official qualification exams.
+- 🌱 Currently I'm building up my portfoglio and gaining expeience in self training projects as my contract with employer is still valid.
+- ⚡ My newest project - personal page, where I represent my self as programmer (unfinished version at vs-code.lt). Hope to fully enable it in middle of summer.
 
 ## Help each other
 - 👯 If you are desiner, visual or audio product creator I’m looking to work with you and spread your creativity all over the web.
-- 🤔 Would like to join any project where junior fullstack(php) programmer skills will be wellcomed.
+- 🤔 Would like to join any project where junior fullstack(php, js) programmer skills will be wellcomed.
 
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Fun fact: ...
 -->
