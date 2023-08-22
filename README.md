@@ -15,8 +15,8 @@ and this is my GitHub page
 ## About
 
 - 😄 I’ve finished full stack developer (PHP) course and passed official qualification exams.
-- 🌱 Currently I'm building up my portfoglio and gaining expeience in self training projects as my contract with employer is still valid.
-- ⚡ My newest project - personal page, where I represent my self as programmer (unfinished version at vs-code.lt). Hope to fully enable it in middle of summer.
+- 🌱 Currently I'm building up my portfoglio and looking for different ways to gain more variuos experience.
+- ⚡ My newest project - personal page, where I represent my self as programmer (unfinished version at vs-code.lt).
 
 ## Help each other
 - 👯 If you are desiner, visual or audio product creator I’m looking to work with you and spread your creativity all over the web.
