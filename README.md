@@ -9,7 +9,7 @@ it is a ✨ _special_ ✨ repository because its `README.md` (this file) appears
 
 ## I'm Vilius - Web developer
 
-## About me
+### About me
 - 😄 I’m the full stack developer with ~1 year programming practice.
 - 🌱 Currently I'm looking for different ways to gain experience in creating my own projects or participating in others.
 
@@ -18,12 +18,14 @@ it is a ✨ _special_ ✨ repository because its `README.md` (this file) appears
 - 🧾 APR 2023 - Official qualification exams. Sertified as Full stack (PHP) developer;
 - 📖 NOV 2023 - FEB 2024 -.NET backender course/internship at @Adform.
 
-## Help each other
+### Motto
+- 🐻🚲 If one can teach bear to ride a bike, you can learn anything.
+
+## Help & Cooperation Proposals
 - 👯 If you are desiner, visual or audio product creator I’m looking to work with you and spread your creativity all over the web.
 - 🤔 I would like to join any project where junior fullstack(php, js) programmer skills will be wellcomed.
 
-## Motto
-- 🐻🚲 If one can teach bear to ride a bike, you can learn anything.
+
   
 <!--
 - 💬 Ask me about ...
